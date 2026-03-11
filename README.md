@@ -1,8 +1,4 @@
-# Movie Ticket Booking System - Updated with JSON
-
-## Changes Made
-
-✅ **Replaced CSV with JSON**: The application now stores and loads bookings from `bookings.json` instead of `bookings.csv`
+# FlickBooK
 
 ### Key Updates:
 - Removed CSV file handling code
@@ -121,3 +117,4 @@ Structured, hierarchical format with complete booking details including timestam
 
 **Issue**: Malformed JSON error
 - **Solution**: Delete bookings.json and restart - a new one will be created
+
