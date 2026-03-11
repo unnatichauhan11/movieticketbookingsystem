@@ -1,0 +1,24 @@
+# Executables
+*.exe
+*.out
+bin/
+obj/
+
+# Object files
+*.o
+*.a
+*.so
+
+# CSV data files
+*.csv
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
