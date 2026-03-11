@@ -1,0 +1,11 @@
+[
+  {
+    "movieTitle": "Avengers: Endgame",
+    "price": 200.0,
+    "totalPrice": 200.0,
+    "timestamp": "2026-03-11 22:28:41",
+    "seats": [
+      {"row": 0, "col": 4}
+    ]
+  }
+]
